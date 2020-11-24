@@ -32,6 +32,5 @@ ax2.set_xlabel("Average Points", size = 18)
 ax2.set_ylabel("Number of Teams", size = 18)
 ax2.legend(fontsize= "large")
 
-figure.show()
-
-plt.savefig("nba_19_20_seasonpts.png")
+plt.show()
+# plt.savefig("nba_19_20_seasonpts.png")
